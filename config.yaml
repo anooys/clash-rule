@@ -630,8 +630,12 @@ rules:
   - DOMAIN-SUFFIX,localhost,🎯 全球直连
   
   - DOMAIN-KEYWORD,zhenniu,🎯 全球直连
+  - DOMAIN-KEYWORD,zn5,🎯 全球直连
   - DOMAIN-SUFFIX,x-mol.com,🎯 全球直连
   - DOMAIN-SUFFIX,uu-gg.one,🚀 节点选择
+  - DOMAIN-SUFFIX,copilot.cloud.microsoft,🤖 人工智能
+  - DOMAIN-SUFFIX,copilot.microsoft.com,🤖 人工智能
+  - DOMAIN-SUFFIX,dcg.microsoft.com,🎯 全球直连
   
   - IP-CIDR,0.0.0.0/8,🎯 全球直连,no-resolve
   - IP-CIDR,10.0.0.0/8,🎯 全球直连,no-resolve
