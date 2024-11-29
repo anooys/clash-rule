@@ -636,7 +636,8 @@ rules:
   - DOMAIN-SUFFIX,copilot.cloud.microsoft,🤖 人工智能
   - DOMAIN-SUFFIX,copilot.microsoft.com,🤖 人工智能
   - DOMAIN-SUFFIX,dcg.microsoft.com,🎯 全球直连
-  - DOMAIN-KEYWORD,lib,🚀 节点选择
+  - DOMAIN-SUFFIX,zh.z-lib.fm,🚀 节点选择
+  - DOMAIN-SUFFIX,zh.1lib.sk,🚀 节点选择
   
   - IP-CIDR,0.0.0.0/8,🎯 全球直连,no-resolve
   - IP-CIDR,10.0.0.0/8,🎯 全球直连,no-resolve
